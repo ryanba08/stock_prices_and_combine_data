@@ -19,7 +19,7 @@ I ran my processed data through 3 models here are the results on the testing dat
 **Linear Regression** accuracy **.49**  
 **LGBM** accuracy **.77**  
 **Random Forest**accuracy **.76**  
-For production I chose the lgbm Becuase it wass less overfit than the Random forest model
+For production I would choose the lgbm Becuase it wass less overfit than the Random forest model
 <br>
 # Reccomendations
 If you are drafting players pay close attention to the Av and 40 yard dash as these have the highest correlation to the round a player will be drafted.
