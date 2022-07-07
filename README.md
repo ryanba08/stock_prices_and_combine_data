@@ -18,7 +18,7 @@ Also, height and weight across the years of my data are relatively similar and p
 I ran my processed data through 3 models here are the results on the testing data after tuning  
 **Linear Regression** accuracy **.49**  
 **LGBM** accuracy **.77**  
-**Random Forest**accuracy **.76**  
+**Random Forest** accuracy **.76**  
 For production I would choose the lgbm Becuase it wass less overfit than the Random forest model
 <br>
 # Reccomendations
