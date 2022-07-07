@@ -22,13 +22,13 @@ I ran my processed data through 3 models here are the results on the testing dat
 For production I would choose the lgbm Becuase it wass less overfit than the Random forest model
 <br>
 # Reccomendations
-If you are drafting players pay close attention to the Av and 40 yard dash as these have the highest correlation to the round a player will be drafted.
+If you are drafting players pay close attention to the Av and 40 yard dash as these have the highest positive correlation to the round a player will be drafted.
 <br>
 <br>
-There is always next year in the draft my data shows the average of players abilities are very similar every year in the draft.
+There is always next year in the draft. My data shows the average of players abilities are very similar every year in the draft.
 <br>
 <br>
-Players that have good cone and shuttle times in the combine tend to get drafted earlier. I reccomend watching for those players with good times
+Players that have good cone and shuttle times in the combine tend to get drafted earlier. I recommend watching for those players with good times.
 <br>
 <br>
 The model I built should be used as a tool to help scouts, Gm's, or personell of teams a grade to the player and an Idea of where they will be drafted.
