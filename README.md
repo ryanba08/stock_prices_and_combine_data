@@ -1,7 +1,7 @@
 # Data Introduction
 
 
-This data was all about the combine tests, Height/weight ,and what round/ pick the player was selected in the nfl draft  
+This data is NFL combine tests, Height/weight ,and what round or pick the player was selected in the nfl draft  
 Some of the tests were 40 yard dash, Cone, Shuttle, BenchReps, Vertical Jump, and more.  
 My data after cleaning has 11 features and 1 target being the round a player was drafted.
 <br>
