@@ -10,7 +10,7 @@ My data after cleaning has 11 features and 1 target being the round a player was
 
 I found that the highest correlated features to the round a player was drafted to be AV(Actual Value) and Forty yard dash.  
 AV is based on players stats and is a metric to grade players at every position equally as possible.  
-I also found that every year in the draft players are very similar from Height and Weight to how they score on the combine tests.
+Also, height and weight across the years of my data are relatively similar and players combine test scores as well.
 <br>
 # Model's
 
