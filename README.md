@@ -31,4 +31,4 @@ There is always next year in the draft my data shows the average of players abil
 Players that have good cone and shuttle times in the combine tend to get drafted earlier. I reccomend watching for those players with good times
 <br>
 <br>
-The model I built should be used as a tool to help scouts/Gm's of teams to give a grade of the player/ Idea where they will be drafted.
+The model I built should be used as a tool to help scouts, Gm's, or personell of teams a grade to the player and an Idea of where they will be drafted.
